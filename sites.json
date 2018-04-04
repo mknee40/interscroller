@@ -1,0 +1,65 @@
+[
+  {
+    "siteID": "3",
+    "partnerID": "3",
+    "sitename": "manatelugumovies.net",
+    "smaatoAdspaceID": "130301937",
+    "smaatoApplicationID": "120101081",
+    "connexityPlacementID": "0",
+    "connexityCategoryID": "0"
+  },
+  {
+    "siteID": "4",
+    "partnerID": "4",
+    "sitename": "bhaskar.com",
+    "smaatoAdspaceID": "130311328",
+    "smaatoApplicationID": "0",
+    "connexityPlacementID": "0",
+    "connexityCategoryID": "0"
+  },
+  {
+    "siteID": "5",
+    "partnerID": "5",
+    "sitename": "m.gsmarena.com",
+    "smaatoAdspaceID": "130304454",
+    "smaatoApplicationID": "0",
+    "connexityPlacementID": "4",
+    "connexityCategoryID": "11580100"
+  },
+  {
+    "siteID": "6",
+    "partnerID": "1",
+    "sitename": "todaysnews.am",
+    "smaatoAdspaceID": "130283051",
+    "smaatoApplicationID": "0",
+    "connexityPlacementID": "0",
+    "connexityCategoryID": "0"
+  },
+  {
+    "siteID": "7",
+    "partnerID": "1",
+    "sitename": "flippin.co.uk",
+    "smaatoAdspaceID": "0",
+    "smaatoApplicationID": "0",
+    "connexityPlacementID": "0",
+    "connexityCategoryID": "0"
+  },
+  {
+    "siteID": "12347",
+    "partnerID": "6",
+    "sitename": "dailythanthi.com",
+    "smaatoAdspaceID": "130311327",
+    "smaatoApplicationID": "0",
+    "connexityPlacementID": "0",
+    "connexityCategoryID": "0"
+  },
+  {
+    "siteID": "12348",
+    "partnerID": "7",
+    "sitename": "news18.com",
+    "smaatoAdspaceID": "130311583",
+    "smaatoApplicationID": "0",
+    "connexityPlacementID": "0",
+    "connexityCategoryID": "0"
+  }
+]
