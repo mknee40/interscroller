@@ -1,6 +1,6 @@
 <?php
 
-header("content-type: application/javascript"); 
+header("content-type: application/javascript");
 
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
@@ -9,9 +9,9 @@ ini_set('display_errors', 1);
 
 /*
     API connection to exchanges
-    work in progress 
+    work in progress
     Can check for ads and apply waterfall
-    pass the json encoded ads into 
+    pass the json encoded ads into
     callback further down
 
 require 'exchanges/mobfox.php';
@@ -21,7 +21,7 @@ require 'exchanges/smaato.php';
 */
 
 $publishers = json_decode(file_get_contents('sites.json'));
-$pubid = $_GET['p'];
+$pubid =isset($_GET['p']) ? $_GET['p'] : 'N';
 
 if(isset($_GET['u'])){
     $refererurl = $_GET['u'];
@@ -62,11 +62,3 @@ if (typeof nxtMedia !== 'undefined') {
        clearInterval(checkNxtExists);
    }
 }, 100);
-
-
-
-
-
-
-
-
